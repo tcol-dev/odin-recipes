@@ -1,1 +1,1 @@
-# odin-recipes
+Creating a basic recipe website with a link to a few recipes. Practicing html knowledge I have acquired so far. 
