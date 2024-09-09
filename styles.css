@@ -1,5 +1,15 @@
-* {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ul {
+    display: table;
+    margin: 0 auto;
+  }
+
+ol {
+    display: table;
+    margin: 0 auto;
+  }
+
+h1,
+h3 {
     text-align: center;
 }
 
@@ -7,6 +17,21 @@ h1 {
     background-color: lightblue;
 }
 
-.reclist {
-    font-size: large;
+p {
+    text-align: center;
 }
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+body {
+    background-image: url("./images/polka.png");
+    background-size: cover;
+
+
+
+}
+
